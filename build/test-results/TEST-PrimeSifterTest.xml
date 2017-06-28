@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeSifterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-06-28T23:46:27" hostname="epicodus-3.local" time="0.002">
+  <properties/>
+  <testcase name="findPrimes_deletesEvenNumbers_ArrayList" classname="PrimeSifterTest" time="0.001"/>
+  <testcase name="createArray_countUpToGivenNumber_ArrayList" classname="PrimeSifterTest" time="0.0"/>
+  <testcase name="createArray_countUpToTwo_ArrayList" classname="PrimeSifterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
